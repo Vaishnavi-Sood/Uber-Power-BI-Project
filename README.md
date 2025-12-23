@@ -5,6 +5,9 @@ This project is an **interactive Power BI dashboard** built using **Microsoft Ex
 The dashboard provides a comprehensive view of bookings, revenue, distances, customers, vehicles, and cancellations to support **data-driven business decisions**.
 
 ---
+![image alt](https://github.com/Vaishnavi-Sood/Uber-Power-BI-Project/blob/main/Power%20BI/Overview_Uber.png)
+
+---
 
 ## 🎯 Objectives
 - Analyze **ride performance** (Completed, Cancelled, Incomplete)
