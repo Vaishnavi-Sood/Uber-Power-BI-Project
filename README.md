@@ -129,7 +129,6 @@ The dashboard provides a comprehensive view of bookings, revenue, distances, cus
 **Vaishnavi Sood**  
 Power BI Developer | Data Analyst  
 
-🔗 [LinkedIn](www.linkedin.com/in/vaishnavi-sood-315565395)
 
 ---
 
